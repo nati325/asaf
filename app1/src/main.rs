@@ -1,3 +1,6 @@
+fn main() {
+    println!("Hello, world!");
+}
 fn main (){
     use crate::bank::Bank;
     use crate::costomer::Customer;
